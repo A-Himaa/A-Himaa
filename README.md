@@ -40,12 +40,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/akila himaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akila himaja" height="30" width="40" /></a><br><hr><br>
 </p>
-<table>
-  <tr>
-    <td>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=a-himaa&show_icons=true&locale=en" alt="a-himaa" /></td>
-    <td><img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-himaa&show_icons=true&locale=en" alt="a-himaa" /></td>
-  </tr>
-</table>
+
 
 
 
